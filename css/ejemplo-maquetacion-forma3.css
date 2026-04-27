@@ -1,0 +1,27 @@
+.contenedor{
+    max-width: 1200px;
+    margin:  auto;
+    border-left-color: blanchedalmond;
+    
+}
+/*mismas caracteristicas a los contenedor de imagenes*/
+.contenedor-img{
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    height: 50vh;
+    column-gap: 5px;
+}
+.contenedor-info{
+    display: grid;
+    grid-template-columns: 5fr 2fr;
+    height: 100vh;
+}
+header{ height: 25vh;}
+nav{ height: 15vh}
+footer{height: 10vh;}
+/*elemento img dentro de la clase .contenedor-img*/
+.contenedor-img>img{
+    width: 100%;
+    height: 100%;
+
+}
