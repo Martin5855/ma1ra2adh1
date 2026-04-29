@@ -1,6 +1,6 @@
 ## Ejemplo de sistema Grid
 ### Maquetación con Rejilla 
-![logointecap](imagenes/logoINTECAP2.png)
+![logointecap](imagenes/LogoINTECAP2.png)
 
 | Tecnología | Descripción |
 |------------|-------------|
